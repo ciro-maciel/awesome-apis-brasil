@@ -1,0 +1,426 @@
+{
+  "slug": "awesome-apis-brasil",
+  "language": "en",
+  "title": "Awesome APIs Brasil",
+  "description": "Brazilian public APIs: CEP, CNPJ, Central Bank, IBGE, Legislative, Judiciary, public holidays and open data.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "agregadores",
+      "title": "Aggregators",
+      "items": [
+        {
+          "name": "BrasilAPI",
+          "url": "https://brasilapi.com.br/",
+          "link": "https://go.mymarketing.click/apibr-brasilapi",
+          "description": "CEP, CNPJ, banks, holidays, DDD, NCM, rates and more in one open, community-driven API.",
+          "tags": [
+            "gratis",
+            "api",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Invertexto API",
+          "url": "https://api.invertexto.com/",
+          "link": "https://go.mymarketing.click/apibr-invertexto-api",
+          "description": "Holidays, CEP, CNPJ, document validation and other utilities, with a free token.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "CNPJ e CEP para agentes",
+          "url": "https://brazil-lookup.mcp.myagents.click/",
+          "link": "https://go.mymarketing.click/apibr-cnpj-e-cep-para-agentes",
+          "description": "Remote MCP server for company lookup by CNPJ, CEP, holidays, DDD, banks, NCM, Selic, CDI and IPCA.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "endereco",
+      "title": "CEP and address",
+      "items": [
+        {
+          "name": "ApiCEP",
+          "url": "https://apicep.com/",
+          "link": "https://go.mymarketing.click/apibr-apicep",
+          "description": "CEP lookup with a free plan.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenCEP",
+          "url": "https://opencep.com/",
+          "link": "https://go.mymarketing.click/apibr-opencep",
+          "description": "Free and open CEP API.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ViaCEP",
+          "url": "https://viacep.com.br/",
+          "link": "https://go.mymarketing.click/apibr-viacep",
+          "description": "Free CEP lookup in JSON and XML, no sign-up required.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "empresas",
+      "title": "Companies and CNPJ",
+      "items": [
+        {
+          "name": "CNPJ.ws",
+          "url": "https://docs.cnpj.ws/",
+          "link": "https://go.mymarketing.click/apibr-cnpj-ws",
+          "description": "CNPJ API with a free public version and paid plans.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "CNPJá",
+          "url": "https://cnpja.com/api",
+          "link": "https://go.mymarketing.click/apibr-cnpja",
+          "description": "CNPJ API with free public lookup and paid plans.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ReceitaWS",
+          "url": "https://www.receitaws.com.br/",
+          "link": "https://go.mymarketing.click/apibr-receitaws",
+          "description": "CNPJ lookup with a free plan limited per minute.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "economia",
+      "title": "Economy and exchange rates",
+      "items": [
+        {
+          "name": "AwesomeAPI de cotações",
+          "url": "https://docs.awesomeapi.com.br/",
+          "link": "https://go.mymarketing.click/apibr-awesomeapi-de-cotacoes",
+          "description": "Real-time currency exchange rates, free.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados abertos do Banco Central",
+          "url": "https://dadosabertos.bcb.gov.br/",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-do-banco-central",
+          "description": "The BCB data portal, with series on interest rates, exchange rates, credit and Pix.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "PTAX no Olinda",
+          "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/aplicacao",
+          "link": "https://go.mymarketing.click/apibr-ptax-no-olinda",
+          "description": "The official dollar exchange rate and other currencies, in OData.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "SGS do Banco Central",
+          "url": "https://www3.bcb.gov.br/sgspub/",
+          "link": "https://go.mymarketing.click/apibr-sgs-do-banco-central",
+          "description": "The Time Series Management System: Selic, IPCA, exchange rates and thousands of series.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabela FIPE",
+          "url": "https://deividfortuna.github.io/fipe/",
+          "link": "https://go.mymarketing.click/apibr-tabela-fipe",
+          "description": "API for querying FIPE vehicle price table.",
+          "tags": [
+            "gratis",
+            "api",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "governo",
+      "title": "Government and Legislature",
+      "items": [
+        {
+          "name": "API do Portal da Transparência",
+          "url": "https://api.portaldatransparencia.gov.br/swagger-ui/index.html",
+          "link": "https://go.mymarketing.click/apibr-api-do-portal-da-transparencia",
+          "description": "Federal government expenses, contracts, employees and benefits, with a free token.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "API Pública do DataJud",
+          "url": "https://datajud-wiki.cnj.jus.br/api-publica/",
+          "link": "https://go.mymarketing.click/apibr-api-publica-do-datajud",
+          "description": "Metadata on court cases from all courts, from the CNJ.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Catálogo de APIs do gov.br",
+          "url": "https://www.gov.br/conecta/catalogo/",
+          "link": "https://go.mymarketing.click/apibr-catalogo-de-apis-do-gov-br",
+          "description": "The federal government API catalog at Conecta gov.br.",
+          "tags": [
+            "oficial",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados Abertos da Câmara",
+          "url": "https://dadosabertos.camara.leg.br/swagger/api.html",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-da-camara",
+          "description": "Deputies, bills, votes and expenses.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados Abertos do Senado",
+          "url": "https://legis.senado.leg.br/dadosabertos/docs/",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-do-senado",
+          "description": "Senators, matters, votes and committees.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados abertos do TSE",
+          "url": "https://dadosabertos.tse.jus.br/",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-do-tse",
+          "description": "Candidates, voters and election results.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IBGE: API de serviços de dados",
+          "url": "https://servicodados.ibge.gov.br/api/docs",
+          "link": "https://go.mymarketing.click/apibr-ibge-api-de-servicos-de-dados",
+          "description": "Localities, names, aggregates, meshes and news from IBGE.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "dados-abertos",
+      "title": "Open data portals",
+      "items": [
+        {
+          "name": "Base dos Dados",
+          "url": "https://basedosdados.org/",
+          "link": "https://go.mymarketing.click/apibr-base-dos-dados",
+          "description": "Brazilian public datasets processed and ready in BigQuery, with Python and R SDKs.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Brasil.IO",
+          "url": "https://brasil.io/",
+          "link": "https://go.mymarketing.click/apibr-brasil-io",
+          "description": "Brazilian public data in an accessible format, open source.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados abertos da Anvisa",
+          "url": "https://dados.anvisa.gov.br/",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-da-anvisa",
+          "description": "Records of medicines, food and other regulated products.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "dados.gov.br",
+          "url": "https://dados.gov.br/",
+          "link": "https://go.mymarketing.click/apibr-dados-gov-br",
+          "description": "The Brazilian Open Data Portal.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "calendario",
+      "title": "Holidays and dates",
+      "items": [
+        {
+          "name": "Nager.Date",
+          "url": "https://date.nager.at/",
+          "link": "https://go.mymarketing.click/apibr-nager-date",
+          "description": "National holidays for more than 100 countries, including Brazil, in an open API.",
+          "tags": [
+            "gratis",
+            "api",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "Other lists",
+      "items": [
+        {
+          "name": "public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "link": "https://go.mymarketing.click/apibr-public-apis",
+          "description": "The community list of public APIs from around the world.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome MCP Brasil",
+          "url": "https://github.com/ciro-maciel/awesome-mcp-brasil",
+          "link": "https://go.mymarketing.click/apibr-awesome-mcp-brasil",
+          "description": "MCP servers for Brazilian services, so AI agents can use these APIs.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome Pix",
+          "url": "https://github.com/ciro-maciel/awesome-pix",
+          "link": "https://go.mymarketing.click/apibr-awesome-pix",
+          "description": "Pix rules, APIs and SDKs.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome NF-e",
+          "url": "https://github.com/ciro-maciel/awesome-nfe",
+          "link": "https://go.mymarketing.click/apibr-awesome-nf-e",
+          "description": "Portals, libraries and APIs for electronic invoices (nota fiscal eletrônica).",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

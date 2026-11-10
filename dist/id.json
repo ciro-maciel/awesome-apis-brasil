@@ -1,0 +1,426 @@
+{
+  "slug": "awesome-apis-brasil",
+  "language": "id",
+  "title": "Awesome APIs Brasil",
+  "description": "API publik Brasil: CEP, CNPJ, Banco Central, IBGE, Legislatif, Yudikatif, hari libur, dan data terbuka.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "agregadores",
+      "title": "Agregator",
+      "items": [
+        {
+          "name": "BrasilAPI",
+          "url": "https://brasilapi.com.br/",
+          "link": "https://go.mymarketing.click/apibr-brasilapi",
+          "description": "CEP, CNPJ, bank, hari libur, DDD, NCM, suku bunga, dan lainnya dalam satu API terbuka dan komunitas.",
+          "tags": [
+            "gratis",
+            "api",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Invertexto API",
+          "url": "https://api.invertexto.com/",
+          "link": "https://go.mymarketing.click/apibr-invertexto-api",
+          "description": "Hari libur, CEP, CNPJ, validasi dokumen, dan utilitas lain, dengan token gratis.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "CNPJ e CEP para agentes",
+          "url": "https://brazil-lookup.mcp.myagents.click/",
+          "link": "https://go.mymarketing.click/apibr-cnpj-e-cep-para-agentes",
+          "description": "Server MCP jarak jauh untuk perusahaan lewat CNPJ, CEP, hari libur, DDD, bank, NCM, Selic, CDI, dan IPCA.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "endereco",
+      "title": "CEP dan alamat",
+      "items": [
+        {
+          "name": "ApiCEP",
+          "url": "https://apicep.com/",
+          "link": "https://go.mymarketing.click/apibr-apicep",
+          "description": "Pencarian CEP dengan paket gratis.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenCEP",
+          "url": "https://opencep.com/",
+          "link": "https://go.mymarketing.click/apibr-opencep",
+          "description": "API CEP gratis dan terbuka.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ViaCEP",
+          "url": "https://viacep.com.br/",
+          "link": "https://go.mymarketing.click/apibr-viacep",
+          "description": "Pencarian CEP gratis dalam JSON dan XML, tanpa pendaftaran.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "empresas",
+      "title": "Perusahaan dan CNPJ",
+      "items": [
+        {
+          "name": "CNPJ.ws",
+          "url": "https://docs.cnpj.ws/",
+          "link": "https://go.mymarketing.click/apibr-cnpj-ws",
+          "description": "API CNPJ dengan versi publik gratis dan paket berbayar.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "CNPJá",
+          "url": "https://cnpja.com/api",
+          "link": "https://go.mymarketing.click/apibr-cnpja",
+          "description": "API CNPJ dengan pencarian publik gratis dan paket berbayar.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ReceitaWS",
+          "url": "https://www.receitaws.com.br/",
+          "link": "https://go.mymarketing.click/apibr-receitaws",
+          "description": "Pencarian CNPJ dengan paket gratis, dibatasi per menit.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "economia",
+      "title": "Ekonomi dan kurs",
+      "items": [
+        {
+          "name": "AwesomeAPI de cotações",
+          "url": "https://docs.awesomeapi.com.br/",
+          "link": "https://go.mymarketing.click/apibr-awesomeapi-de-cotacoes",
+          "description": "Kurs mata uang real-time, gratis.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados abertos do Banco Central",
+          "url": "https://dadosabertos.bcb.gov.br/",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-do-banco-central",
+          "description": "Portal data BCB, dengan deret suku bunga, kurs, kredit, dan Pix.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "PTAX no Olinda",
+          "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/aplicacao",
+          "link": "https://go.mymarketing.click/apibr-ptax-no-olinda",
+          "description": "Kurs resmi dolar dan mata uang lain, dalam OData.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "SGS do Banco Central",
+          "url": "https://www3.bcb.gov.br/sgspub/",
+          "link": "https://go.mymarketing.click/apibr-sgs-do-banco-central",
+          "description": "Sistem Pengelola Deret Waktu: Selic, IPCA, kurs, dan ribuan deret lainnya.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabela FIPE",
+          "url": "https://deividfortuna.github.io/fipe/",
+          "link": "https://go.mymarketing.click/apibr-tabela-fipe",
+          "description": "API untuk mencari tabel FIPE kendaraan.",
+          "tags": [
+            "gratis",
+            "api",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "governo",
+      "title": "Pemerintah dan Legislatif",
+      "items": [
+        {
+          "name": "API do Portal da Transparência",
+          "url": "https://api.portaldatransparencia.gov.br/swagger-ui/index.html",
+          "link": "https://go.mymarketing.click/apibr-api-do-portal-da-transparencia",
+          "description": "Pengeluaran, kontrak, pegawai, dan tunjangan pemerintah federal, dengan token gratis.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "API Pública do DataJud",
+          "url": "https://datajud-wiki.cnj.jus.br/api-publica/",
+          "link": "https://go.mymarketing.click/apibr-api-publica-do-datajud",
+          "description": "Metadata perkara hukum dari semua pengadilan, dari CNJ.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Catálogo de APIs do gov.br",
+          "url": "https://www.gov.br/conecta/catalogo/",
+          "link": "https://go.mymarketing.click/apibr-catalogo-de-apis-do-gov-br",
+          "description": "Katalog API pemerintah federal di Conecta gov.br.",
+          "tags": [
+            "oficial",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados Abertos da Câmara",
+          "url": "https://dadosabertos.camara.leg.br/swagger/api.html",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-da-camara",
+          "description": "Anggota DPR, proposisi, pemungutan suara, dan pengeluaran.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados Abertos do Senado",
+          "url": "https://legis.senado.leg.br/dadosabertos/docs/",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-do-senado",
+          "description": "Senator, materi, pemungutan suara, dan komisi.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados abertos do TSE",
+          "url": "https://dadosabertos.tse.jus.br/",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-do-tse",
+          "description": "Calon, daftar pemilih, dan hasil pemilu.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IBGE: API de serviços de dados",
+          "url": "https://servicodados.ibge.gov.br/api/docs",
+          "link": "https://go.mymarketing.click/apibr-ibge-api-de-servicos-de-dados",
+          "description": "Lokasi, nama, agregat, mesh, dan berita dari IBGE.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "dados-abertos",
+      "title": "Portal data terbuka",
+      "items": [
+        {
+          "name": "Base dos Dados",
+          "url": "https://basedosdados.org/",
+          "link": "https://go.mymarketing.click/apibr-base-dos-dados",
+          "description": "Basis data publik Brasil yang sudah diolah dan siap di BigQuery, dengan SDK Python dan R.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Brasil.IO",
+          "url": "https://brasil.io/",
+          "link": "https://go.mymarketing.click/apibr-brasil-io",
+          "description": "Data publik Brasil dalam format mudah diakses, kode terbuka.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados abertos da Anvisa",
+          "url": "https://dados.anvisa.gov.br/",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-da-anvisa",
+          "description": "Catatan obat, makanan, dan produk diatur lainnya.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "dados.gov.br",
+          "url": "https://dados.gov.br/",
+          "link": "https://go.mymarketing.click/apibr-dados-gov-br",
+          "description": "Portal Data Terbuka Brasil.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "calendario",
+      "title": "Hari libur dan tanggal",
+      "items": [
+        {
+          "name": "Nager.Date",
+          "url": "https://date.nager.at/",
+          "link": "https://go.mymarketing.click/apibr-nager-date",
+          "description": "Hari libur nasional dari lebih dari 100 negara, termasuk Brasil, dalam API terbuka.",
+          "tags": [
+            "gratis",
+            "api",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "Daftar lain",
+      "items": [
+        {
+          "name": "public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "link": "https://go.mymarketing.click/apibr-public-apis",
+          "description": "Daftar kolektif API publik dari seluruh dunia.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome MCP Brasil",
+          "url": "https://github.com/ciro-maciel/awesome-mcp-brasil",
+          "link": "https://go.mymarketing.click/apibr-awesome-mcp-brasil",
+          "description": "Server MCP untuk layanan Brasil, agar agen AI bisa memakai API ini.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome Pix",
+          "url": "https://github.com/ciro-maciel/awesome-pix",
+          "link": "https://go.mymarketing.click/apibr-awesome-pix",
+          "description": "Standar, API, dan SDK untuk Pix.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome NF-e",
+          "url": "https://github.com/ciro-maciel/awesome-nfe",
+          "link": "https://go.mymarketing.click/apibr-awesome-nf-e",
+          "description": "Portal, pustaka, dan API untuk nota fiskal elektronik.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

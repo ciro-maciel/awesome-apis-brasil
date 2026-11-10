@@ -1,0 +1,426 @@
+{
+  "slug": "awesome-apis-brasil",
+  "language": "ar",
+  "title": "Awesome APIs Brasil",
+  "description": "واجهات برمجة تطبيقات عامة برازيلية: CEP، CNPJ، البنك المركزي، IBGE، التشريعية، القضائية، العطل الرسمية والبيانات المفتوحة.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "agregadores",
+      "title": "المجمّعات",
+      "items": [
+        {
+          "name": "BrasilAPI",
+          "url": "https://brasilapi.com.br/",
+          "link": "https://go.mymarketing.click/apibr-brasilapi",
+          "description": "رموز البريد (CEP) وCNPJ والبنوك والعطل وDDD وNCM والأسعار وغيرها في واجهة مفتوحة ومجتمعية.",
+          "tags": [
+            "gratis",
+            "api",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Invertexto API",
+          "url": "https://api.invertexto.com/",
+          "link": "https://go.mymarketing.click/apibr-invertexto-api",
+          "description": "العطل وCEP والتحقق من CNPJ والوثائق وأدوات مساعدة أخرى، مع رمز مجاني.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "CNPJ e CEP para agentes",
+          "url": "https://brazil-lookup.mcp.myagents.click/",
+          "link": "https://go.mymarketing.click/apibr-cnpj-e-cep-para-agentes",
+          "description": "خادم MCP عن بُعد للبحث عن شركة عبر CNPJ وCEP والعطل وDDD والبنوك وNCM وSelic وCDI وIPCA.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "endereco",
+      "title": "CEP والعناوين",
+      "items": [
+        {
+          "name": "ApiCEP",
+          "url": "https://apicep.com/",
+          "link": "https://go.mymarketing.click/apibr-apicep",
+          "description": "البحث في CEP بخطة مجانية.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "OpenCEP",
+          "url": "https://opencep.com/",
+          "link": "https://go.mymarketing.click/apibr-opencep",
+          "description": "واجهة CEP مجانية ومفتوحة.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ViaCEP",
+          "url": "https://viacep.com.br/",
+          "link": "https://go.mymarketing.click/apibr-viacep",
+          "description": "بحث CEP مجاني بصيغتي JSON وXML، بدون تسجيل.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "empresas",
+      "title": "الشركات وCNPJ",
+      "items": [
+        {
+          "name": "CNPJ.ws",
+          "url": "https://docs.cnpj.ws/",
+          "link": "https://go.mymarketing.click/apibr-cnpj-ws",
+          "description": "واجهة CNPJ بنسخة عامة مجانية وخطط مدفوعة.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "CNPJá",
+          "url": "https://cnpja.com/api",
+          "link": "https://go.mymarketing.click/apibr-cnpja",
+          "description": "واجهة CNPJ ببحث عام مجاني وخطط مدفوعة.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "ReceitaWS",
+          "url": "https://www.receitaws.com.br/",
+          "link": "https://go.mymarketing.click/apibr-receitaws",
+          "description": "بحث CNPJ بخطة مجانية محدودة بالدقيقة.",
+          "tags": [
+            "gratis",
+            "pago",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "economia",
+      "title": "الاقتصاد والصرف",
+      "items": [
+        {
+          "name": "AwesomeAPI de cotações",
+          "url": "https://docs.awesomeapi.com.br/",
+          "link": "https://go.mymarketing.click/apibr-awesomeapi-de-cotacoes",
+          "description": "أسعار العملات لحظياً، مجاناً.",
+          "tags": [
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados abertos do Banco Central",
+          "url": "https://dadosabertos.bcb.gov.br/",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-do-banco-central",
+          "description": "بوابة بيانات البنك المركزي (BCB)، مع سلاسل الفائدة والصرف والائتمان وPix.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "PTAX no Olinda",
+          "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/aplicacao",
+          "link": "https://go.mymarketing.click/apibr-ptax-no-olinda",
+          "description": "سعر الدولار الرسمي وعملات أخرى، عبر OData.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "SGS do Banco Central",
+          "url": "https://www3.bcb.gov.br/sgspub/",
+          "link": "https://go.mymarketing.click/apibr-sgs-do-banco-central",
+          "description": "نظام إدارة السلاسل الزمنية (SGS): Selic وIPCA والصرف وآلاف السلاسل.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Tabela FIPE",
+          "url": "https://deividfortuna.github.io/fipe/",
+          "link": "https://go.mymarketing.click/apibr-tabela-fipe",
+          "description": "واجهة برمجية للاستعلام عن جدول FIPE للمركبات.",
+          "tags": [
+            "gratis",
+            "api",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "governo",
+      "title": "الحكومة والتشريع",
+      "items": [
+        {
+          "name": "API do Portal da Transparência",
+          "url": "https://api.portaldatransparencia.gov.br/swagger-ui/index.html",
+          "link": "https://go.mymarketing.click/apibr-api-do-portal-da-transparencia",
+          "description": "النفقات والعقود والموظفين والمزايا الحكومية الاتحادية، مع رمز مجاني.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "API Pública do DataJud",
+          "url": "https://datajud-wiki.cnj.jus.br/api-publica/",
+          "link": "https://go.mymarketing.click/apibr-api-publica-do-datajud",
+          "description": "بيانات وصفية للقضايا القضائية من جميع المحاكم، من CNJ.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Catálogo de APIs do gov.br",
+          "url": "https://www.gov.br/conecta/catalogo/",
+          "link": "https://go.mymarketing.click/apibr-catalogo-de-apis-do-gov-br",
+          "description": "كتالوج واجهات الحكومة الاتحادية في Conecta gov.br.",
+          "tags": [
+            "oficial",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados Abertos da Câmara",
+          "url": "https://dadosabertos.camara.leg.br/swagger/api.html",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-da-camara",
+          "description": "النواب والمقترحات والتصويتات والنفقات.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados Abertos do Senado",
+          "url": "https://legis.senado.leg.br/dadosabertos/docs/",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-do-senado",
+          "description": "أعضاء مجلس الشيوخ والمواد والتصويتات واللجان.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados abertos do TSE",
+          "url": "https://dadosabertos.tse.jus.br/",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-do-tse",
+          "description": "المرشحون والناخبون والنتائج الانتخابية.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "IBGE: API de serviços de dados",
+          "url": "https://servicodados.ibge.gov.br/api/docs",
+          "link": "https://go.mymarketing.click/apibr-ibge-api-de-servicos-de-dados",
+          "description": "المواقع والأسماء والمجاميع والشبكات والأخبار من IBGE.",
+          "tags": [
+            "oficial",
+            "gratis",
+            "api"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "dados-abertos",
+      "title": "بوابات البيانات المفتوحة",
+      "items": [
+        {
+          "name": "Base dos Dados",
+          "url": "https://basedosdados.org/",
+          "link": "https://go.mymarketing.click/apibr-base-dos-dados",
+          "description": "قواعد بيانات برازيلية عامة معالجة وجاهزة في BigQuery، مع SDK بلغتي Python وR.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Brasil.IO",
+          "url": "https://brasil.io/",
+          "link": "https://go.mymarketing.click/apibr-brasil-io",
+          "description": "بيانات برازيلية عامة بصيغة سهلة الوصول، مفتوحة المصدر.",
+          "tags": [
+            "gratis",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Dados abertos da Anvisa",
+          "url": "https://dados.anvisa.gov.br/",
+          "link": "https://go.mymarketing.click/apibr-dados-abertos-da-anvisa",
+          "description": "سجلات الأدوية والأغذية والمنتجات الأخرى الخاضعة للتنظيم.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "dados.gov.br",
+          "url": "https://dados.gov.br/",
+          "link": "https://go.mymarketing.click/apibr-dados-gov-br",
+          "description": "بوابة البيانات المفتوحة البرازيلية.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "calendario",
+      "title": "العطل والتواريخ",
+      "items": [
+        {
+          "name": "Nager.Date",
+          "url": "https://date.nager.at/",
+          "link": "https://go.mymarketing.click/apibr-nager-date",
+          "description": "عطل وطنية من أكثر من 100 دولة، بما فيها البرازيل، في واجهة مفتوحة.",
+          "tags": [
+            "gratis",
+            "api",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "قوائم أخرى",
+      "items": [
+        {
+          "name": "public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "link": "https://go.mymarketing.click/apibr-public-apis",
+          "description": "القائمة الجماعية لواجهات البرمجة العامة في العالم كله.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome MCP Brasil",
+          "url": "https://github.com/ciro-maciel/awesome-mcp-brasil",
+          "link": "https://go.mymarketing.click/apibr-awesome-mcp-brasil",
+          "description": "خوادم MCP للخدمات البرازيلية، تتيح لوكيل الذكاء الاصطناعي استخدام هذه الواجهات البرمجية.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome Pix",
+          "url": "https://github.com/ciro-maciel/awesome-pix",
+          "link": "https://go.mymarketing.click/apibr-awesome-pix",
+          "description": "معايير وواجهات برمجية وحزم تطوير برامج (SDK) لنظام Pix.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome NF-e",
+          "url": "https://github.com/ciro-maciel/awesome-nfe",
+          "link": "https://go.mymarketing.click/apibr-awesome-nf-e",
+          "description": "بوابات ومكتبات وواجهات برمجية لفاتورة الخدمات الإلكترونية.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
