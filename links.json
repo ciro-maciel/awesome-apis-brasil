@@ -254,5 +254,9 @@
   "https://github.com/public-apis/public-apis": {
     "id": "d0fe75da-c773-4c99-8e30-36bbb9cdfd56",
     "shortUrl": "https://go.mymarketing.click/apibr-public-apis"
+  },
+  "https://link.mercadopago.com.br/ciromaciel": {
+    "id": "642233b3-69c9-4cb1-8fc2-6111774bd36e",
+    "shortUrl": "https://go.mymarketing.click/apibr-apoie"
   }
 }
