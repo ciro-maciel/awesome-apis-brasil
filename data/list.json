@@ -1,0 +1,387 @@
+{
+    "slug": "awesome-apis-brasil",
+    "campaign": "awesome-apis-brasil",
+    "linkPrefix": "apibr",
+    "title": "Awesome APIs Brasil",
+    "description": "APIs públicas brasileiras: CEP, CNPJ, Banco Central, IBGE, Legislativo, Judiciário, feriados e dados abertos.",
+    "intro": "Para quem precisa de um dado brasileiro dentro de um sistema e não quer raspar site. Começa pelos agregadores, que juntam muita coisa numa API só, e segue por tema até os portais oficiais. Cada endereço foi aberto antes de entrar; quando o grátis tem limite, a descrição diz.",
+    "glossary": "CEP, CNPJ, CPF, DDD, NCM, Selic, CDI, IPCA, PTAX, SGS, OData, IBGE, FIPE, CNJ, TSE, Anvisa, gov.br and every API name are proper names; keep them.",
+    "topics": [
+        "api",
+        "apis",
+        "public-apis",
+        "dados-abertos",
+        "open-data",
+        "cep",
+        "cnpj",
+        "ibge"
+    ],
+    "categories": [
+        {
+            "id": "agregadores",
+            "title": "Agregadores",
+            "description": "Uma API só para vários dados brasileiros.",
+            "items": [
+                {
+                    "name": "BrasilAPI",
+                    "url": "https://brasilapi.com.br/",
+                    "description": "CEP, CNPJ, bancos, feriados, DDD, NCM, taxas e mais numa API aberta e comunitária.",
+                    "tags": [
+                        "gratis",
+                        "api",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Invertexto API",
+                    "url": "https://api.invertexto.com/",
+                    "description": "Feriados, CEP, CNPJ, validação de documentos e outros utilitários, com token grátis.",
+                    "tags": [
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "CNPJ e CEP para agentes",
+                    "url": "https://brazil-lookup.mcp.myagents.click/",
+                    "description": "Servidor MCP remoto com empresa pelo CNPJ, CEP, feriados, DDD, bancos, NCM, Selic, CDI e IPCA.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10",
+                    "ours": true
+                }
+            ]
+        },
+        {
+            "id": "endereco",
+            "title": "CEP e endereço",
+            "description": "Em ordem alfabética.",
+            "items": [
+                {
+                    "name": "ApiCEP",
+                    "url": "https://apicep.com/",
+                    "description": "Consulta de CEP com plano grátis.",
+                    "tags": [
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "OpenCEP",
+                    "url": "https://opencep.com/",
+                    "description": "API de CEP grátis e aberta.",
+                    "tags": [
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "ViaCEP",
+                    "url": "https://viacep.com.br/",
+                    "description": "Consulta de CEP grátis em JSON e XML, sem cadastro.",
+                    "tags": [
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "empresas",
+            "title": "Empresas e CNPJ",
+            "description": "Em ordem alfabética.",
+            "items": [
+                {
+                    "name": "CNPJ.ws",
+                    "url": "https://docs.cnpj.ws/",
+                    "description": "API de CNPJ com versão pública grátis e planos pagos.",
+                    "tags": [
+                        "gratis",
+                        "pago",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "CNPJá",
+                    "url": "https://cnpja.com/api",
+                    "description": "API de CNPJ com consulta pública grátis e planos pagos.",
+                    "tags": [
+                        "gratis",
+                        "pago",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "ReceitaWS",
+                    "url": "https://www.receitaws.com.br/",
+                    "description": "Consulta de CNPJ com plano grátis limitado por minuto.",
+                    "tags": [
+                        "gratis",
+                        "pago",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "economia",
+            "title": "Economia e câmbio",
+            "description": "Em ordem alfabética.",
+            "items": [
+                {
+                    "name": "AwesomeAPI de cotações",
+                    "url": "https://docs.awesomeapi.com.br/",
+                    "description": "Cotações de moedas em tempo real, grátis.",
+                    "tags": [
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Dados abertos do Banco Central",
+                    "url": "https://dadosabertos.bcb.gov.br/",
+                    "description": "O portal de dados do BCB, com séries de juros, câmbio, crédito e Pix.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "PTAX no Olinda",
+                    "url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/aplicacao",
+                    "description": "A cotação oficial do dólar e de outras moedas, em OData.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "SGS do Banco Central",
+                    "url": "https://www3.bcb.gov.br/sgspub/",
+                    "description": "O Sistema Gerenciador de Séries Temporais: Selic, IPCA, câmbio e milhares de séries.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Tabela FIPE",
+                    "url": "https://deividfortuna.github.io/fipe/",
+                    "description": "API para consultar a tabela FIPE de veículos.",
+                    "tags": [
+                        "gratis",
+                        "api",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "governo",
+            "title": "Governo e Legislativo",
+            "description": "Em ordem alfabética.",
+            "items": [
+                {
+                    "name": "API do Portal da Transparência",
+                    "url": "https://api.portaldatransparencia.gov.br/swagger-ui/index.html",
+                    "description": "Despesas, contratos, servidores e benefícios do governo federal, com token grátis.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "API Pública do DataJud",
+                    "url": "https://datajud-wiki.cnj.jus.br/api-publica/",
+                    "description": "Metadados de processos judiciais de todos os tribunais, do CNJ.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Catálogo de APIs do gov.br",
+                    "url": "https://www.gov.br/conecta/catalogo/",
+                    "description": "O catálogo de APIs do governo federal no Conecta gov.br.",
+                    "tags": [
+                        "oficial",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Dados Abertos da Câmara",
+                    "url": "https://dadosabertos.camara.leg.br/swagger/api.html",
+                    "description": "Deputados, proposições, votações e despesas.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Dados Abertos do Senado",
+                    "url": "https://legis.senado.leg.br/dadosabertos/docs/",
+                    "description": "Senadores, matérias, votações e comissões.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Dados abertos do TSE",
+                    "url": "https://dadosabertos.tse.jus.br/",
+                    "description": "Candidatos, eleitorado e resultados eleitorais.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "IBGE: API de serviços de dados",
+                    "url": "https://servicodados.ibge.gov.br/api/docs",
+                    "description": "Localidades, nomes, agregados, malhas e notícias do IBGE.",
+                    "tags": [
+                        "oficial",
+                        "gratis",
+                        "api"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "dados-abertos",
+            "title": "Portais de dados abertos",
+            "description": "Bases inteiras para baixar ou consultar.",
+            "items": [
+                {
+                    "name": "Base dos Dados",
+                    "url": "https://basedosdados.org/",
+                    "description": "Bases públicas brasileiras tratadas e prontas no BigQuery, com SDK em Python e R.",
+                    "tags": [
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Brasil.IO",
+                    "url": "https://brasil.io/",
+                    "description": "Dados públicos brasileiros em formato acessível, de código aberto.",
+                    "tags": [
+                        "gratis",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Dados abertos da Anvisa",
+                    "url": "https://dados.anvisa.gov.br/",
+                    "description": "Registros de medicamentos, alimentos e outros produtos regulados.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "dados.gov.br",
+                    "url": "https://dados.gov.br/",
+                    "description": "O Portal Brasileiro de Dados Abertos.",
+                    "tags": [
+                        "oficial",
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "calendario",
+            "title": "Feriados e datas",
+            "description": "Em ordem alfabética.",
+            "items": [
+                {
+                    "name": "Nager.Date",
+                    "url": "https://date.nager.at/",
+                    "description": "Feriados nacionais de mais de 100 países, inclusive o Brasil, em API aberta.",
+                    "tags": [
+                        "gratis",
+                        "api",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        },
+        {
+            "id": "outras-listas",
+            "title": "Outras listas",
+            "description": "Em ordem alfabética.",
+            "items": [
+                {
+                    "name": "public-apis",
+                    "url": "https://github.com/public-apis/public-apis",
+                    "description": "A lista coletiva de APIs públicas do mundo inteiro.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Awesome MCP Brasil",
+                    "url": "https://github.com/ciro-maciel/awesome-mcp-brasil",
+                    "description": "Servidores MCP para serviços brasileiros, para o agente de IA usar estas APIs.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Awesome Pix",
+                    "url": "https://github.com/ciro-maciel/awesome-pix",
+                    "description": "Normas, APIs e SDKs de Pix.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                },
+                {
+                    "name": "Awesome NF-e",
+                    "url": "https://github.com/ciro-maciel/awesome-nfe",
+                    "description": "Portais, bibliotecas e APIs de nota fiscal eletrônica.",
+                    "tags": [
+                        "gratis"
+                    ],
+                    "added": "2026-11-10"
+                }
+            ]
+        }
+    ]
+}
