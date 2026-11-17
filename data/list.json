@@ -98,6 +98,18 @@
             "description": "Em ordem alfabética.",
             "items": [
                 {
+                    "name": "Brazil AI CNPJ e Pix API",
+                    "url": "https://br-business-intel-x402.architect-x402.workers.dev/sample",
+                    "description": "API de CNPJ, CEP e Pix: dossiê empresarial, dados de sócios, validação de documentos e geração ou leitura de BR Code, cobrada por chamada em USDC.",
+                    "tags": [
+                        "gratis",
+                        "pago",
+                        "api",
+                        "codigo-aberto"
+                    ],
+                    "added": "2026-11-17"
+                },
+                {
                     "name": "CNPJ.ws",
                     "url": "https://docs.cnpj.ws/",
                     "description": "API de CNPJ com versão pública grátis e planos pagos.",
